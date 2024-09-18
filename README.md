@@ -1,2 +1,2 @@
 # Dice-challenge
-Live site url - https://sivaraja83.github.io/Dice-challenge/
+Live site url - https://sivasreact.github.io/Dice-challenge/
